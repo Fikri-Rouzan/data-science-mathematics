@@ -2,7 +2,7 @@
 
 ## 📌 Deskripsi
 
-Proyek ini dirancang sebagai wadah implementasi dan penyelesaian studi kasus komputasi matematika, yang mencakup klasifikasi berbasis probabilistik menggunakan metode Naive Bayes serta pengujian eksperimen statistik melalui metode A/B testing. Di dalamnya terdapat solusi kode terstruktur untuk melakukan analisis distribusi data, evaluasi performa pada sistem rekomendasi, hingga pengujian fitur fungsional dalam proses pengembangan perangkat lunak. Proyek ini bertujuan untuk memberikan pemahaman dasar serta penerapan nyata logika matematika dalam mengolah data guna mendukung pengambilan keputusan yang akurat dan berbasis bukti ilmiah.
+Proyek ini dirancang untuk menyelesaikan studi kasus komputasi matematika yang mencakup klasifikasi berbasis probabilistik menggunakan metode Naive Bayes serta pengujian eksperimen statistik melalui metode A/B testing. Di dalamnya terdapat solusi kode terstruktur untuk melakukan analisis distribusi data, evaluasi performa pada sistem rekomendasi, hingga pengujian fitur fungsional dalam proses pengembangan perangkat lunak. Proyek ini bertujuan menerapkan logika matematika dalam mengolah data guna mendukung pengambilan keputusan berbasis analisis data.
 
 ---
 
